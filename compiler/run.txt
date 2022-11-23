@@ -1,0 +1,3 @@
+java SimpleCompiler.java 
+
+pause
